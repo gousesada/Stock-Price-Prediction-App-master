@@ -1,0 +1,7 @@
+__pycache__
+.ipynb_checkpoints
+env
+models
+*Experiment*
+
+Predicting_Buy_Sell.ipynb
