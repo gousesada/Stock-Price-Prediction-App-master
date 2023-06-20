@@ -58,12 +58,3 @@ python dash_app.py
 * [Dash](https://plot.ly/dash/) - The framework used to build the web app
 * [Scikit-Learn](https://scikit-learn.org/stable/) - The framework used to build the machine learning models
 * [yfinance](https://pypi.org/project/yfinance/) - The API used to pull the stock price data from Yahoo! Finance
-
-## Author's Info
-
-- Portfolio - https://ryan-kp-miller.github.io/  
-- Email - ryan.kp.miller@gmail.com
-
-<!-- ## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details -->
