@@ -7,6 +7,13 @@ closing stock price for each of the companies.
 
 ![screenshot](assets/example.PNG)
 
+The project utilizes a vast amount of historical stock market data to train the machine learning model. This data includes stock prices, trading volumes, and other market indicators. The model learns patterns and relationships between news events and stock price movements, enabling it to make predictions based on similar patterns in the future.
+
+To extract meaningful insights from news articles and other textual data, the project employs natural language processing techniques. These techniques involve parsing and analyzing the text to identify relevant keywords, sentiments, and entities. The model then combines these textual features with historical market data to generate predictions.
+
+The system is designed to adapt and learn from new information continuously. It incorporates a feedback loop that allows it to update its predictions as new data becomes available. This way, the model can adjust its predictions based on changing market conditions and evolving news sentiment.
+
+Overall, the goal of this machine learning project is to provide investors and traders with an additional tool for making informed decisions about stock market investments. By leveraging the power of machine learning and natural language processing, it aims to enhance the accuracy and timeliness of stock price predictions, ultimately helping users navigate the complexities of the financial markets.
 
 ## Getting Started
 
